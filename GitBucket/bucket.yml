@@ -1,0 +1,6 @@
+flows:
+  d62f4c77-05ec-43fc-b9be-53e5e66edbb4: {ver: 1, file: MoveFile.snapshot, comments: '',
+    author: anonymous, created: 1707897054229, flowName: MoveFile, flowDesc: Pick
+      file and copy it to other folder}
+layoutVer: 1
+bucketId: 5ec96756-7b41-44eb-987c-2a9ad8ebdb7b
