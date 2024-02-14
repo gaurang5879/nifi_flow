@@ -1,4 +1,7 @@
 flows:
+  d057dd6c-6a30-49db-9a3f-304773b148e4: {ver: 1, file: FileHandlerPOC.snapshot, comments: '',
+    author: anonymous, created: 1707897158429, flowName: FileHandlerPOC, flowDesc: Move
+      files as per their xml element}
   4839bba6-494c-4411-9cf7-9d4381a11a61: {ver: 1, file: MoveFileAsPerType.snapshot,
     comments: '', author: anonymous, created: 1707896944319, flowName: MoveFileAsPerType,
     flowDesc: Move files as per their types}
