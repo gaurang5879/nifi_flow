@@ -2,5 +2,8 @@ flows:
   4839bba6-494c-4411-9cf7-9d4381a11a61: {ver: 1, file: MoveFileAsPerType.snapshot,
     comments: '', author: anonymous, created: 1707896944319, flowName: MoveFileAsPerType,
     flowDesc: Move files as per their types}
+  ba3fe18c-ad5f-4de8-951d-91decfbcc39c: {ver: 1, file: MoveFile.snapshot, comments: '',
+    author: anonymous, created: 1707897129707, flowName: MoveFile, flowDesc: Copy
+      and paste file from one folder to other folder}
 layoutVer: 1
 bucketId: 2d54df39-947a-426e-9ed5-a4daf716ff4b
